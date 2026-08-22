@@ -1,7 +1,8 @@
 <p align="center">
   <img src="SGP_GitHub_README_Hero.png" alt="Static Grave Productions" width="600">
 </p>
-# STATIC GRAVE PRODUCTIONS
+
+<h1>STATIC GRAVE PRODUCTIONS</h1>
 
 ### MADE TO ENDURE.
 

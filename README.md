@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="SGP_GitHub_README_Hero.png" alt="Static Grave Productions" width="600">
+</p>
 # STATIC GRAVE PRODUCTIONS
 
 ### MADE TO ENDURE.

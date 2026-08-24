@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="SGP_Master_Logo.png" alt="Static Grave Productions" width="800">
+  <img src="SGP_Master_Logo.png" alt="Static Grave Productions" width="1000">
 </p><h1 align="center">STATIC GRAVE PRODUCTIONS</h1><p align="center">
   <strong>MADE TO ENDURE.</strong>
 </p>---

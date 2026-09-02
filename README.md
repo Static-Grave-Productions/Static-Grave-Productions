@@ -20,15 +20,6 @@ We are not interested in chasing ideas simply because they are easy to produce. 
 
 ---
 
-Our Projects
-
-SARVEL
-
-An alien-world survival experience currently in development.
-
-Status: In Development
-
-More will be revealed when it is ready.
 
 ---
 
